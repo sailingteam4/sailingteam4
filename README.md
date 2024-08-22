@@ -1,12 +1,7 @@
 # Salut 👋, je suis Nathan !
 
-### 🎓 Étudiant à 42 Angoulême
-
-## 🌟 Mes Intérêts
-
-En dehors de la programmation, j'aime beaucoup :
-- ☕ Le café, surtout l'art de le faire soi-même
-- 🎬 Le cinéma
+## 🎓 42 angouleme
+[![nrontey's 42 stats](https://badge.mediaplus.ma/starryblue/nrontey?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🛠️ Mes Projets
 
@@ -23,3 +18,9 @@ En dehors de la programmation, j'aime beaucoup :
 
 ## 💻 Technologies Préférées
 [![Mes technos](https://skillicons.dev/icons?i=c,cpp,docker,flask,git,linux,nginx,premiere,python,vim,vscode)](https://skillicons.dev)
+
+## 🌟 Mes Intérêts
+
+En dehors de la programmation, j'aime beaucoup :
+- ☕ Le café, surtout l'art de le faire soi-même
+- 🎬 Le cinéma
