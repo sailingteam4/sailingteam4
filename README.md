@@ -17,7 +17,7 @@
 @nathan_nrg4
 
 ## 💻 Technologies Préférées
-[![Mes technos](https://skillicons.dev/icons?i=c,cpp,docker,flask,git,linux,nginx,premiere,python,vim,vscode)](https://skillicons.dev)
+[![Mes technos](https://skillicons.dev/icons?i=c,cpp,git,vim,docker,linux,nginx,premiere,python,flask,vscode)](https://skillicons.dev)
 
 ## 🌟 Mes Intérêts
 
