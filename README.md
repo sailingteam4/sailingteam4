@@ -1,6 +1,6 @@
-# Salut 👋, je suis Nathan aka SailingTeam4 !
+# Salut 👋, je suis Nathan !
 
-## 🎓 Étudiant à 42 Angoulême
+### 🎓 Étudiant à 42 Angoulême
 
 ## 🌟 Mes Intérêts
 
@@ -18,12 +18,8 @@ En dehors de la programmation, j'aime beaucoup :
 - 🤖 **Minecraft-to-Stat-Discord-Bot** : Un bot Discord qui affiche des statistiques de serveur minecraft.
 
 ## 📞 Contact
-
-- Discord : @nathan_nrg4
+[![discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) </br>
+@nathan_nrg4
 
 ## 💻 Technologies Préférées
-
-- 🐍 **Python**
-- ☕ **C**
-- 🐳 **Docker**
-- 🐧 **Linux**
+[![Mes technos](https://skillicons.dev/icons?i=c,cpp,docker,flask,git,linux,nginx,premiere,python,vim,vscode)](https://skillicons.dev)
