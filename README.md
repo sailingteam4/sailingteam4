@@ -1,16 +1,29 @@
-### Hi there 👋
+# Salut 👋, je suis Nathan aka SailingTeam4 !
 
-<!--
-**sailingteam4/sailingteam4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Étudiant à 42 Angoulême
 
-Here are some ideas to get you started:
+## 🌟 Mes Intérêts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En dehors de la programmation, j'aime beaucoup :
+- ☕ Le café, surtout l'art de le faire soi-même
+- 🎬 Le cinéma
+
+## 🛠️ Mes Projets
+
+### Projets Actuels
+- 🎮 **Cub3d** : Un projet d'étude à 42 où je travaille actuellement.
+
+### Projets Passés
+- 💻 **Minishell** : Un projet dont je suis particulièrement fier et qui m'a demandé beaucoup de temps et d'efforts.
+- 🤖 **Minecraft-to-Stat-Discord-Bot** : Un bot Discord qui affiche des statistiques de serveur minecraft.
+
+## 📞 Contact
+
+- Discord : @nathan_nrg4
+
+## 💻 Technologies Préférées
+
+- 🐍 **Python**
+- ☕ **C**
+- 🐳 **Docker**
+- 🐧 **Linux**
