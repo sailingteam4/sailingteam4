@@ -9,7 +9,7 @@
 - 🎮 **Cub3d** : Un projet d'étude à 42 où je travaille actuellement.
 
 ### Projets Passés
-- 💻 **Minishell** : Un projet dont je suis particulièrement fier et qui m'a demandé beaucoup de temps et d'efforts.
+- 💻 [**Minishell**](https://github.com/Rockmard/minisHELL) : Un projet dont je suis particulièrement fier et qui m'a demandé beaucoup de temps et d'efforts.
 - 🤖 **Minecraft-to-Stat-Discord-Bot** : Un bot Discord qui affiche des statistiques de serveur minecraft.
 
 ## 📞 Contact
