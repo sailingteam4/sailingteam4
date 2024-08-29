@@ -1,7 +1,6 @@
 # Salut 👋, je suis Nathan !
 
 ## 🎓 42 angouleme
-[![nrontey's 42 stats](https://badge.mediaplus.ma/starryblue/nrontey?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🛠️ Mes Projets
 
