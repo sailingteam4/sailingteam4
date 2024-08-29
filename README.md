@@ -12,8 +12,7 @@
 - 🤖 [**Minecraft-to-Stat-Discord-Bot**](https://github.com/sailingteam4/MinecraftStats-to-DiscordBot) : Un bot Discord qui affiche des statistiques de serveur minecraft.
 
 ## 📞 Contact
-[![discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) </br>
-@nathan_nrg4
+[Clique ici](https://contact.nathaan.me/)
 
 ## 💻 Technologies Préférées
 [![Mes technos](https://skillicons.dev/icons?i=c,cpp,git,nginx,premiere,linux,vim,linux,python,flask,vscode)](https://skillicons.dev)
