@@ -5,7 +5,7 @@
 ## 🛠️ Mes Projets
 
 ### Projets Actuels
-- 🎮 **Cub3d** : Un projet d'étude à 42 où je travaille actuellement.
+- 🎮 [**Cub3d**](https://github.com/sailingteam4/Cub3D) : Un projet d'étude à 42 où je travaille actuellement.
 
 ### Projets Passés
 - 💻 [**Minishell**](https://github.com/Rockmard/minisHELL) : Un projet dont je suis particulièrement fier et qui m'a demandé beaucoup de temps et d'efforts.
