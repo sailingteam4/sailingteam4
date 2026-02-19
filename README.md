@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Salut%2C+je+suis+Nathan+👋;%C3%89tudiant+%40+42+Angoul%C3%AAme;Cr%C3%A9ateur+Tech+%7C+Arch+Linux+User;C+%2F+C%2B%2B+%2F+Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Salut%2C+je+suis+Nathan+👋;%C3%89tudiant+%40+42+Angoul%C3%AAme;Cr%C3%A9ateur+Tech+%7C+Arch+Linux+User;C+%2F+C%2B%2B+%2F+Python+Developer" alt="Typing SVG" />
   
   <br>
 
@@ -16,28 +16,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sailingteam4&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
   </a>
-
-  <!-- Stats & Streak - Custom Neofetch -->
-```bash
-sailingteam4@42-angouleme:~$ neofetch
----------------------------------------
-OS: Arch Linux x86_64
-Host: 42 Angoulême
-Kernel: 6.6.9-arch1-1
-Uptime: 20 years, 0 days, 0 hours
-Shell: zsh 5.9
-Resolution: 3840x2160
-DE: Kde Plasma (Wayland)
-Theme: Graphite-dark
-Icons: Tela-circle-dark
-Terminal: Blackbox
-CPU: AMD Ryzen 7 9700X (16) @ 5.z
-GPU: AMD Radeon™ RX 9070 XT
-Memory: 32GiB / ∞ (Learning)
-```
-
-  <br>
-  <br>
 
   <!-- Tech Stack -->
   <a href="https://skillicons.dev">
