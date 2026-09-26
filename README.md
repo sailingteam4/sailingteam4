@@ -12,10 +12,6 @@
 
   <br>
   <br>
-  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sailingteam4&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-  </a>
 
   <!-- Tech Stack -->
   <a href="https://skillicons.dev">
