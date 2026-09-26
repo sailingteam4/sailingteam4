@@ -4,7 +4,7 @@
   <br>
 
   <a href="https://www.tiktok.com/@nathan_nrgt">
-    <img src="https://img.shields.io/badge/Audience-34k%2B%20Abonnés-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="Audience">
+    <img src="https://img.shields.io/badge/Audience-70k%2B%20Abonnés-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="Audience">
   </a>
   <a href="https://nathaan.me/">
     <img src="https://img.shields.io/badge/Portfolio-nathaan.me-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
